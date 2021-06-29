@@ -1,12 +1,12 @@
 # Saffronlist
 
+## A list for saffron-free browsing. 
+
 ## WARNING
 The list is **aggressive**.  
 It can and will **break stuff**.  
 It completely blocks access to **1344 domains** and **3 TLDs**.  
 Depending on how it's used, you may or may not get a notification.  
-
-## A list for saffron-free browsing. 
 
 ### Filterlist
 _Works with most ad-blocking extensions/add-ons and apps_  
